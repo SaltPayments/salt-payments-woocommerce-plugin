@@ -2,8 +2,8 @@
 /*
    Plugin Name: Salt Payments Gateway
    Description: Extends WooCommerce to Process Payments with Salt Payments gateway.
-   Version: 1.0.1
-   Plugin URI: http://salttechnology.github.io
+   Version: 1.0.2
+   Plugin URI: http://saltpayments.github.io
    Author: Salt Payments
    Author URI: http://www.saltpayments.com
    Original Author: nalparam
